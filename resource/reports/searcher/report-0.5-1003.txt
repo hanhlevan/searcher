@@ -1,0 +1,773 @@
+Predicting...
+Done 16.675949 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.53
+Retrieval 614 document(s)!
+###Retrieval documents with 0.53
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.61
+bí_ẩn những cơn mưa động_vật kì_lạ                                              |	1.179509
+---
+Done! 0.00
+Processing at query 'động vật kì lạ'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 1.656532 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 1.52
+Retrieval 1366 document(s)!
+###Retrieval documents with 1.55
+###Generate vector query with 0.00
+Sim------------ 0.11
+Sorting-------- 0.00
+###Scoring query with 0.11
+Retrieval Done! 1.66
+những bí_ẩn mà các nhà khoa_học không_thể lý_giải                               |	0.713257
+---
+ớn lạnh những tiên_đoán về siêu trăng máu xuất_hiện đêm nay                     |	0.608727
+---
+Done! 0.01
+Processing at query 'bóng ma trong đêm'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 1.084089 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.14
+Retrieval 661 document(s)!
+###Retrieval documents with 0.19
+###Generate vector query with 0.00
+Sim------------ 0.05
+Sorting-------- 0.00
+###Scoring query with 0.05
+Retrieval Done! 0.25
+bí_ẩn những cơn mưa động_vật kì_lạ                                              |	0.583214
+---
+Done! 0.00
+Processing at query 'động vật chân to'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.495672 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.99
+Retrieval 1302 document(s)!
+###Retrieval documents with 1.02
+###Generate vector query with 0.00
+Sim------------ 0.10
+Sorting-------- 0.00
+###Scoring query with 0.10
+Retrieval Done! 1.12
+nghi_vấn căn_cứ khổng_lồ của người_ngoài hành_tinh được phát_hiện bằng ứng_dụng google|	0.638485
+---
+Done! 0.00
+Processing at query 'người khổng lồ'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.617981 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.59
+Retrieval 699 document(s)!
+###Retrieval documents with 0.65
+###Generate vector query with 0.00
+Sim------------ 0.05
+Sorting-------- 0.00
+###Scoring query with 0.05
+Retrieval Done! 0.70
+Done! 0.00
+Processing at query 'cá chết'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.663280 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.87
+Retrieval 1083 document(s)!
+###Retrieval documents with 0.89
+###Generate vector query with 0.00
+Sim------------ 0.08
+Sorting-------- 0.00
+###Scoring query with 0.08
+Retrieval Done! 0.97
+bí_ẩn kỳ_dị , không_thể giải_thích trên hòn đảo hoang liên xô giải_mã nhưng không thành|	0.595704
+---
+Done! 0.00
+Processing at query 'ngôi nhà hoang'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.679731 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.53
+Retrieval 1085 document(s)!
+###Retrieval documents with 0.57
+###Generate vector query with 0.00
+Sim------------ 0.08
+Sorting-------- 0.00
+###Scoring query with 0.08
+Retrieval Done! 0.65
+người săn ma                                                                    |	1.071780
+---
+trái_đất săn người_ngoài hành_tinh                                              |	0.961881
+---
+những bí_ẩn mà các nhà khoa_học không_thể lý_giải                               |	0.753628
+---
+những nơi lý_tưởng nhất trên thế_giới để săn người_ngoài hành_tinh              |	0.748409
+---
+Done! 0.01
+Processing at query 'nhà săn ma'
+precision : 0.25
+recall : 0.33
+f1-score : 0.29
+Predicting...
+Done 0.455141 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.03
+Retrieval 138 document(s)!
+###Retrieval documents with 0.07
+###Generate vector query with 0.00
+Sim------------ 0.01
+Sorting-------- 0.00
+###Scoring query with 0.01
+Retrieval Done! 0.10
+lý_thuyết của einstein chứng_minh ma có thật                                    |	0.836499
+---
+Done! 0.00
+Processing at query 'lý thuyết Einstein'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 1.447916 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 1.32
+Retrieval 1306 document(s)!
+###Retrieval documents with 1.33
+###Generate vector query with 0.00
+Sim------------ 0.09
+Sorting-------- 0.00
+###Scoring query with 0.09
+Retrieval Done! 1.42
+10 điều bí_ẩn về loài_người                                                     |	0.884693
+---
+Done! 0.00
+Processing at query 'loài người bị diệt vong'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.770092 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.56
+Retrieval 789 document(s)!
+###Retrieval documents with 0.61
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.68
+bí_ẩn của kim_tự_tháp châu mỹ                                                   |	1.152113
+---
+Done! 0.00
+Processing at query 'bí ẩn kim tự tháp'
+precision : 1.00
+recall : 0.12
+f1-score : 0.22
+Predicting...
+Done 3.130913 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 1.35
+Retrieval 1355 document(s)!
+###Retrieval documents with 1.40
+###Generate vector query with 0.00
+Sim------------ 0.09
+Sorting-------- 0.00
+###Scoring query with 0.09
+Retrieval Done! 1.50
+núi người_ngoài hành_tinh ở pháp                                                |	1.197543
+---
+Done! 0.00
+Processing at query 'liên lạc với người ngoài hành tinh'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.581741 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.89
+Retrieval 1277 document(s)!
+###Retrieval documents with 0.94
+###Generate vector query with 0.00
+Sim------------ 0.09
+Sorting-------- 0.00
+###Scoring query with 0.09
+Retrieval Done! 1.03
+huyền_thoại về người sói                                                        |	1.719856
+---
+10 câu_chuyện đáng sợ về người sói                                              |	1.349451
+---
+Done! 0.01
+Processing at query 'người sói'
+precision : 1.00
+recall : 0.67
+f1-score : 0.80
+Predicting...
+Done 1.181602 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.04
+Retrieval 154 document(s)!
+###Retrieval documents with 0.08
+###Generate vector query with 0.00
+Sim------------ 0.01
+Sorting-------- 0.00
+###Scoring query with 0.01
+Retrieval Done! 0.11
+5 bí_ẩn về ufo xuất_hiện ở việt nam trong chiến_tranh                           |	0.561803
+---
+Done! 0.00
+Processing at query 'chiến tranh Việt Nam'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 1.870394 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.44
+Retrieval 563 document(s)!
+###Retrieval documents with 0.45
+###Generate vector query with 0.00
+Sim------------ 0.05
+Sorting-------- 0.00
+###Scoring query with 0.05
+Retrieval Done! 0.50
+ba trường_hợp du_hành vượt thời_gian bí_ẩn xuyên thời_đại                       |	1.187986
+---
+Done! 0.00
+Processing at query 'du hành thời gian'
+precision : 1.00
+recall : 0.20
+f1-score : 0.33
+Predicting...
+Done 2.019167 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.54
+Retrieval 1362 document(s)!
+###Retrieval documents with 0.56
+###Generate vector query with 0.00
+Sim------------ 0.09
+Sorting-------- 0.00
+###Scoring query with 0.09
+Retrieval Done! 0.65
+hồn ma xuất_hiện trong quán rượu                                                |	1.725100
+---
+bóng trắng trùm đầu trong quán rượu được cho là ma                              |	1.092963
+---
+Done! 0.00
+Processing at query 'bóng ma trong quán rượu'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 0.544548 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.76
+Retrieval 729 document(s)!
+###Retrieval documents with 0.80
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.87
+con mèo có khả_năng tiên_đoán cái chết                                          |	1.433704
+---
+tiên_đoán người_ngoài hành_tinh sẽ xuất_hiện ngay trong thế_kỷ 21               |	0.746328
+---
+Done! 0.00
+Processing at query 'tiên đoán cái chết'
+precision : 0.50
+recall : 0.50
+f1-score : 0.50
+Predicting...
+Done 0.620842 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.48
+Retrieval 676 document(s)!
+###Retrieval documents with 0.51
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.57
+Done! 0.00
+Processing at query 'phù thủy quyên lực nhất'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.959396 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.12
+Retrieval 623 document(s)!
+###Retrieval documents with 0.15
+###Generate vector query with 0.00
+Sim------------ 0.04
+Sorting-------- 0.00
+###Scoring query with 0.04
+Retrieval Done! 0.19
+nasa phát_hiện ra người_ngoài hành_tinh trên sao_hỏa                            |	1.436302
+---
+phát_hiện hộp sọ người_ngoài hành_tinh trên sao_hỏa                             |	0.952567
+---
+cậu bé nhớ được kiếp trước của mình là người sao_hỏa                            |	0.609844
+---
+Done! 0.01
+Processing at query 'sống trên sao hỏa'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 1.241684 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.77
+Retrieval 989 document(s)!
+###Retrieval documents with 0.80
+###Generate vector query with 0.00
+Sim------------ 0.07
+Sorting-------- 0.00
+###Scoring query with 0.07
+Retrieval Done! 0.87
+Done! 0.00
+Processing at query 'chuyện lạ nhất hành tinh'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 2.856255 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.86
+Retrieval 1327 document(s)!
+###Retrieval documents with 0.89
+###Generate vector query with 0.00
+Sim------------ 0.09
+Sorting-------- 0.00
+###Scoring query with 0.09
+Retrieval Done! 1.01
+cái chết bí_ẩn của các nhà nghiên_cứu ufo                                       |	1.068651
+---
+Done! 0.00
+Processing at query 'nhà khoa học bị chết khi nghiên cứu ufo'
+precision : 1.00
+recall : 0.33
+f1-score : 0.50
+Predicting...
+Done 0.587463 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.45
+Retrieval 751 document(s)!
+###Retrieval documents with 0.50
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.56
+Done! 0.00
+Processing at query 'xác chết sống lại'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 1.832485 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.53
+Retrieval 1159 document(s)!
+###Retrieval documents with 0.56
+###Generate vector query with 0.00
+Sim------------ 0.08
+Sorting-------- 0.00
+###Scoring query with 0.08
+Retrieval Done! 0.64
+Done! 0.00
+Processing at query 'cậu bé nam châm'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.415802 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.56
+Retrieval 678 document(s)!
+###Retrieval documents with 0.61
+###Generate vector query with 0.00
+Sim------------ 0.07
+Sorting-------- 0.00
+###Scoring query with 0.07
+Retrieval Done! 0.67
+mưa chim chết bí_ẩn ở mỹ                                                        |	1.381001
+---
+Done! 0.00
+Processing at query 'chim chết'
+precision : 1.00
+recall : 0.50
+f1-score : 0.67
+Predicting...
+Done 0.555754 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.51
+Retrieval 420 document(s)!
+###Retrieval documents with 0.55
+###Generate vector query with 0.00
+Sim------------ 0.04
+Sorting-------- 0.00
+###Scoring query with 0.04
+Retrieval Done! 0.59
+bí_ẩn những cơn mưa động_vật kì_lạ                                              |	1.153656
+---
+Done! 0.00
+Processing at query 'mưa động vật'
+precision : 1.00
+recall : 0.17
+f1-score : 0.29
+Predicting...
+Done 0.570297 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.03
+Retrieval 121 document(s)!
+###Retrieval documents with 0.05
+###Generate vector query with 0.00
+Sim------------ 0.01
+Sorting-------- 0.00
+###Scoring query with 0.01
+Retrieval Done! 0.06
+Done! 0.00
+Processing at query 'hồn ma'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.824451 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.03
+Retrieval 97 document(s)!
+###Retrieval documents with 0.03
+###Generate vector query with 0.00
+Sim------------ 0.01
+Sorting-------- 0.00
+###Scoring query with 0.01
+Retrieval Done! 0.05
+bí_ẩn tam_giác quỷ trung_quốc                                                   |	1.647209
+---
+Done! 0.00
+Processing at query 'tam giác quỷ'
+precision : 1.00
+recall : 0.08
+f1-score : 0.15
+Predicting...
+Done 0.681400 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.45
+Retrieval 446 document(s)!
+###Retrieval documents with 0.45
+###Generate vector query with 0.00
+Sim------------ 0.04
+Sorting-------- 0.00
+###Scoring query with 0.04
+Retrieval Done! 0.50
+nghi_vấn căn_cứ khổng_lồ của người_ngoài hành_tinh được phát_hiện bằng ứng_dụng google|	0.654911
+---
+Done! 0.00
+Processing at query 'quái vật khổng lồ	'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 1.204729 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.46
+Retrieval 751 document(s)!
+###Retrieval documents with 0.48
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.55
+Done! 0.00
+Processing at query 'bí ẩn không gian'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 1.089811 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.52
+Retrieval 1108 document(s)!
+###Retrieval documents with 0.55
+###Generate vector query with 0.00
+Sim------------ 0.07
+Sorting-------- 0.00
+###Scoring query with 0.07
+Retrieval Done! 0.63
+bí_ẩn của ngôi nhà lớn thần_bí                                                  |	0.961570
+---
+Done! 0.00
+Processing at query 'ngôi nhà ma ám'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.887871 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.35
+Retrieval 267 document(s)!
+###Retrieval documents with 0.39
+###Generate vector query with 0.00
+Sim------------ 0.02
+Sorting-------- 0.00
+###Scoring query with 0.03
+Retrieval Done! 0.42
+ớn lạnh những tiên_đoán về siêu trăng máu xuất_hiện đêm nay                     |	0.608693
+---
+Done! 0.00
+Processing at query 'chuyện ma đêm khuya'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.636339 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.45
+Retrieval 841 document(s)!
+###Retrieval documents with 0.46
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.53
+Done! 0.00
+Processing at query 'ufo xuất hiện'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.566483 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.38
+Retrieval 427 document(s)!
+###Retrieval documents with 0.41
+###Generate vector query with 0.00
+Sim------------ 0.04
+Sorting-------- 0.00
+###Scoring query with 0.04
+Retrieval Done! 0.45
+giải_mã hiện_tượng hồn lìa khỏi xác                                             |	2.282718
+---
+giải_mã hiện_tượng bí_ẩn hồn lìa khỏi xác                                       |	2.030730
+---
+Done! 0.00
+Processing at query 'hồn lìa khỏi xác'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 4.587173 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 1.44
+Retrieval 1368 document(s)!
+###Retrieval documents with 1.46
+###Generate vector query with 0.00
+Sim------------ 0.13
+Sorting-------- 0.00
+###Scoring query with 0.13
+Retrieval Done! 1.60
+bí_ẩn người đàn_ông di_chuyển 17 nghìn km chỉ sau một giấc_ngủ                  |	0.848722
+---
+Done! 0.01
+Processing at query 'di chuyển trong khi ngủ'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 0.670433 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.15
+Retrieval 439 document(s)!
+###Retrieval documents with 0.22
+###Generate vector query with 0.00
+Sim------------ 0.04
+Sorting-------- 0.00
+###Scoring query with 0.04
+Retrieval Done! 0.26
+kinh_ngạc chuyện đầu_thai                                                       |	1.335402
+---
+một trường_hợp đầu_thai ở anh                                                   |	1.159440
+---
+Done! 0.00
+Processing at query 'đầu thai'
+precision : 1.00
+recall : 1.00
+f1-score : 1.00
+Predicting...
+Done 0.506878 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.91
+Retrieval 1284 document(s)!
+###Retrieval documents with 0.93
+###Generate vector query with 0.00
+Sim------------ 0.14
+Sorting-------- 0.00
+###Scoring query with 0.14
+Retrieval Done! 1.07
+lý_giải nguyên_nhân hiện_tượng người ăn thịt người                              |	1.530840
+---
+hố cát ăn thịt người xuất_hiện bí_ẩn ở mỹ                                       |	1.116682
+---
+các nhà khoa_học muốn ăn thịt người_ngoài hành_tinh                             |	0.902664
+---
+Done! 0.01
+Processing at query 'ăn thịt người'
+precision : 1.00
+recall : 0.75
+f1-score : 0.86
+Predicting...
+Done 0.944138 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.83
+Retrieval 1286 document(s)!
+###Retrieval documents with 0.91
+###Generate vector query with 0.00
+Sim------------ 0.07
+Sorting-------- 0.00
+###Scoring query with 0.07
+Retrieval Done! 0.99
+những chuyện thần_bí quanh người_rừng ở trung_quốc                              |	1.100554
+---
+Done! 0.00
+Processing at query 'người rừng'
+precision : 1.00
+recall : 0.50
+f1-score : 0.67
+Predicting...
+Done 0.943661 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.79
+Retrieval 710 document(s)!
+###Retrieval documents with 0.84
+###Generate vector query with 0.00
+Sim------------ 0.06
+Sorting-------- 0.00
+###Scoring query with 0.06
+Retrieval Done! 0.90
+bí_ẩn thần giao cách cảm                                                        |	2.523869
+---
+sự_thật về thần giao cách cảm                                                   |	2.243048
+---
+giới khoa_học cho nasa biết nơi và cách tìm_kiếm người_ngoài hành_tinh          |	0.610880
+---
+Done! 0.01
+Processing at query 'thần giao cách cảm'
+precision : 0.67
+recall : 0.50
+f1-score : 0.57
+Predicting...
+Done 1.132727 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.02
+Retrieval 96 document(s)!
+###Retrieval documents with 0.05
+###Generate vector query with 0.00
+Sim------------ 0.01
+Sorting-------- 0.00
+###Scoring query with 0.01
+Retrieval Done! 0.07
+người_ngoài hành_tinh có_thể đã tuyệt_chủng                                     |	1.203355
+---
+những hiểm_họa gây tuyệt_chủng loài_người                                       |	0.955819
+---
+Done! 0.00
+Processing at query 'khủng long bị tuyệt chủng'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.697374 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.93
+Retrieval 1378 document(s)!
+###Retrieval documents with 0.94
+###Generate vector query with 0.00
+Sim------------ 0.10
+Sorting-------- 0.00
+###Scoring query with 0.10
+Retrieval Done! 1.04
+Done! 0.00
+Processing at query 'người đàn ông bí ẩn'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+Predicting...
+Done 0.491858 (ms)
+Done!
+###Simple with 0.00
+-------------Find time: 0.09
+Retrieval 483 document(s)!
+###Retrieval documents with 0.14
+###Generate vector query with 0.00
+Sim------------ 0.04
+Sorting-------- 0.00
+###Scoring query with 0.04
+Retrieval Done! 0.18
+Done! 0.00
+Processing at query 'quái vật biển'
+precision : 0.00
+recall : 0.00
+f1-score : 0.00
+0.4539930555555556

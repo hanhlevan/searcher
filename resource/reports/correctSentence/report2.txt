@@ -1,0 +1,347 @@
+[('teo mdai pat thanh sputnik, to', 'theo đài phát_thanh sputnik , tổ'), ('chuc phi chinh phu lowcountry marine', 'chức phi chính_phủ lowcountry marine'), ('mammal network (the thong dong', 'mammal network ( hệ_thống động'), ('vat bien lowcountry) co tru', 'vật biển lowcountry ) có trụ'), ('so trai thanh pho charleston', 'sở_tại thành_phố charleston'), ('da dang lrn mang xa', 'đã đăng lên mạng_xã'), ('hoi facebook hinh anh ve', 'hội facebook hình_ảnh về'), ('rot vat te hinsh tfron', 'một vật_thể hình_tròn'), ('ky la c kich thuoc lon', 'kỳ_lạ có kích_thước lớn'), ('stroi dant vao bp bien da', 'trôi_dạt vào bờ biển đảo'), ('seabrook. quan chuc dia phuong d', 'seabrook . quan_chức địa_phương đã'), ('toi vg thu hoi vat', 'tới và thu_hồi vật'), ('the la do, khien cu', 'thể lạ đó , khiến cư'), ('dn mang cang dua ra', 'dân mạng càng đưa ra'), ('nhieu nghi yvan vm gia', 'nhiều nghi_vấn và giả'), ('thuyet. “rio rng bdo la', 'thuyết . “ rõ_ràng đó là'), ('mot con tau cua nguoi ngoaq', 'một con tàu của người_ngoài'), ('hanh tinh”, meghan galipeau – mot', 'hành_tinh ” , meghan galipeau – một'), ('gia thuyet gi nhan dinh.', 'giả_thuyết gia nhận_định .'), ('trong khi d, mot so nguoi', 'trong khi đó , một_số người'), ('dung facebook khac ti dmon gian', 'dùng facebook khác thì đơn_giản'), ('cho rang do pchi la', 'cho rằng đó chỉ là'), ('ben trong mot cai phao hoac', 'bên trong một cái phao hoặc'), ('mot phan cua giad khoan dau.', 'một phần của giàn khoan dầu .'), ('gia tbhuyet duoc nhijeu nguoi', 'giả_thuyết được nhiều người'), ('ztin nhht la l giac', 'tin nhất là lý_giải'), ('tu eot cu dan mang co', 'từ một cư_dân mạng có'), ('ten jim elrod. nguhi nay', 'tên jim elrod . người này'), ('ch rang vat the nnay', 'cho rằng vật_thể này'), ('thxuoc sz huu cua nasa vla', 'thuộc sở_hữu của nasa , là'), ('pan b phan ong phun ten', 'phần bộ_phận ống phun tên'), ('lua trong con tau con', 'lửa trong con tàu con'), ('thoi chahllenger phat nno 0', 'thoi_challenger phát_nổ 30'), ('nam truoc. hwi thang 6, bao', 'năm trước . hồi tháng 6 , báo'), ('charlotte observer cung duia tin vse', 'charlotte observer cũng đưa tin về'), ('mot vat tahe la tung', 'một vật_thể lạ_tương'), ('tu - lam tu xkim', 'tự - làm từ kim'), ('loai d troi dat vao bo', 'loại - trôi_dạt vào bờ'), ('bien corola. tpy nhien, mmc dich', 'biển corolla . tuy_nhiên , mục_đích'), ('su dung va nguon gc', 'sử_dụng và nguồn_gốc'), ('cua vat th la do', 'của vật_thể lạ đó'), ('chua bao gio duoc ccng', 'chưa bao_giờ được công'), ('o.', 'bố .')]
+43
+Predicting...
+Done 27.365208 (ms)
+Done!
+Before: teo mdai pat thanh sputnik, to
+Predict: ['tẹo đại pat thành sputnik tổ', 'teo đại pat thành sputnik tổ', 'teo đại pat thành sputnik tô', 'tẹo đại pat thành sputnik tô', 'tẹo đại pat thành sputnik tờ']
+Reality: theo đài phát_thanh sputnik , tổ
+Score: 0.33
+---
+Predicting...
+Done 8.677006 (ms)
+Done!
+Before: chuc phi chinh phu lowcountry marine
+Predict: ['chức phi chính_phủ lowcountry marine', 'chực phi chính_phủ lowcountry marine', 'chúc phi chính_phủ lowcountry marine', 'chục phi chính_phủ lowcountry marine', 'chức phí chính_phủ lowcountry marine']
+Reality: chức phi chính_phủ lowcountry marine
+Score: 1.00
+---
+Predicting...
+Done 6.489992 (ms)
+Done!
+Before: mammal network (the thong dong
+Predict: ['mammal network the thong_dong']
+Reality: mammal network ( hệ_thống động
+Score: 0.40
+---
+Predicting...
+Done 8.099794 (ms)
+Done!
+Before: vat bien lowcountry) co tru
+Predict: ['vật biển lowcountry có trụ', 'vặt biển lowcountry có trụ', 'vạt biển lowcountry có trụ', 'vất biển lowcountry có trụ', 'vắt biển lowcountry có trụ', 'vật biển lowcountry có trữ']
+Reality: vật biển lowcountry ) có trụ
+Score: 0.83
+---
+Predicting...
+Done 5.438089 (ms)
+Done!
+Before: so trai thanh pho charleston
+Predict: ['so trai thành_phố charleston', 'sợ trai thành_phố charleston', 'số trai thành_phố charleston', 'sở trai thành_phố charleston', 'sơ trai thành_phố charleston']
+Reality: sở_tại thành_phố charleston
+Score: 0.50
+---
+Predicting...
+Done 7.169962 (ms)
+Done!
+Before: da dang lrn mang xa
+Predict: ['đã đang lớn mạng_xã', 'đá đang lớn mạng_xã', 'da đang lớn mạng_xã', 'dã đang lớn mạng_xã', 'đa đang lớn mạng_xã']
+Reality: đã đăng lên mạng_xã
+Score: 0.50
+---
+Predicting...
+Done 5.017042 (ms)
+Done!
+Before: hoi facebook hinh anh ve
+Predict: ['hội facebook hình_ảnh về', 'hỏi facebook hình_ảnh về', 'hơi facebook hình_ảnh về', 'hôi facebook hình_ảnh về', 'hồi facebook hình_ảnh về']
+Reality: hội facebook hình_ảnh về
+Score: 1.00
+---
+Predicting...
+Done 3.737211 (ms)
+Done!
+Before: rot vat te hinsh tfron
+Predict: ['rốt vật tế hình_tròn', 'rớt_vật tế hình_tròn', 'rót vật tế hình_tròn', 'rớt vắt tệ hình_tròn', 'rốt vất tế hình_tròn']
+Reality: một vật_thể hình_tròn
+Score: 0.33
+---
+Predicting...
+Done 5.171776 (ms)
+Done!
+Before: ky la c kich thuoc lon
+Predict: ['kỳ_lạ c kích_thước lớn', 'kỳ là c kích_thước lớn', 'ký là c kích_thước lớn', 'kỹ là c kích_thước lớn', 'kỷ là c kích_thước lớn']
+Reality: kỳ_lạ có kích_thước lớn
+Score: 0.75
+---
+Predicting...
+Done 7.536173 (ms)
+Done!
+Before: stroi dant vao bp bien da
+Predict: ['trời đang vào p_biển đã', 'trôi đang vào p_biển đã', 'trói đang vào p_biển đã', 'trội đang vào p_biển đã', 'trỗi đang vào p_biển đã']
+Reality: trôi_dạt vào bờ biển đảo
+Score: 0.20
+---
+Predicting...
+Done 9.017229 (ms)
+Done!
+Before: seabrook. quan chuc dia phuong d
+Predict: ['seabrook quan_chức địa_phương đ', 'seabrook quân chức địa_phương đ', 'seabrook quán chức địa_phương đ', 'seabrook quản_chức địa_phương đ', 'seabrook quận_chức địa_phương đ']
+Reality: seabrook . quan_chức địa_phương đã
+Score: 0.60
+---
+Predicting...
+Done 4.954338 (ms)
+Done!
+Before: toi vg thu hoi vat
+Predict: ['tới kg thu_hồi vật', 'tội kg thu_hồi vật', 'tồi kg thu_hồi vật', 'tối kg thu_hồi vật', 'tôi kg thu_hồi vật']
+Reality: tới và thu_hồi vật
+Score: 0.75
+---
+Predicting...
+Done 6.033897 (ms)
+Done!
+Before: the la do, khien cu
+Predict: ['thể là đơn khiến cư', 'thể là đón khiến cư', 'thể là đồn khiến cư', 'thể là dọn khiến cư', 'thế là đơn khiến cư']
+Reality: thể lạ đó , khiến cư
+Score: 0.50
+---
+Predicting...
+Done 5.880356 (ms)
+Done!
+Before: dn mang cang dua ra
+Predict: ['dt mang cang dua ra']
+Reality: dân mạng càng đưa ra
+Score: 0.20
+---
+Predicting...
+Done 4.642248 (ms)
+Done!
+Before: nhieu nghi yvan vm gia
+Predict: ['nhiều nghi yan vụ gia', 'nhiều nghi yan vụ giá', 'nhiều nghi yan vụ giả', 'nhiêu nghi yan vụ gia', 'nhiễu nghi yan vụ gia']
+Reality: nhiều nghi_vấn và giả
+Score: 0.40
+---
+Predicting...
+Done 3.602982 (ms)
+Done!
+Before: thuyet. “rio rng bdo la
+Predict: ['thuyết rio ông béo_lạ', 'thuyết rio ông bèo lạ', 'thuyết rio ông bẽo lạ', 'thuyết rio_óng bẽo la', 'thuyết rio ong bẽo lạ']
+Reality: thuyết . “ rõ_ràng đó là
+Score: 0.17
+---
+Predicting...
+Done 7.405758 (ms)
+Done!
+Before: mot con tau cua nguoi ngoaq
+Predict: ['một con tàu của người ngoa', 'một cơn tàu của người ngoa', 'mốt con tàu của người ngoa', 'mọt con tàu của người ngoa', 'một còn tàu của người ngoa']
+Reality: một con tàu của người_ngoài
+Score: 0.67
+---
+Predicting...
+Done 3.913403 (ms)
+Done!
+Before: hanh tinh”, meghan galipeau – mot
+Predict: ['hành_tinh meghan galipeau p một', 'hành_tinh meghan galipeau p_mọt', 'hành_tinh meghan galipeau p_môt', 'hành_tinh meghan galipeau p_mót', 'hành_tinh meghan galipeau p_mốt']
+Reality: hành_tinh ” , meghan galipeau – một
+Score: 0.57
+---
+Predicting...
+Done 3.550291 (ms)
+Done!
+Before: gia thuyet gi nhan dinh.
+Predict: ['giả_thuyết gì nhận_định', 'giả_thuyết gi nhận_định', 'giả_thuyết gỉ nhận_định', 'gia thuyết gì nhận_định', 'gia thuyết gi nhận_định']
+Reality: giả_thuyết gia nhận_định .
+Score: 0.50
+---
+Predicting...
+Done 3.493309 (ms)
+Done!
+Before: trong khi d, mot so nguoi
+Predict: ['trong khi dt mot so nguoi']
+Reality: trong khi đó , một_số người
+Score: 0.33
+---
+Predicting...
+Done 8.956194 (ms)
+Done!
+Before: dung facebook khac ti dmon gian
+Predict: ['dùng facebook_khắc tì đơn_giản', 'dụng facebook_khắc tì đơn_giản', 'dùng facebook khác tị đơn_giản', 'dùng facebook khắc tí đơn_giản', 'dụng facebook khắc ti đơn_giản']
+Reality: dùng facebook khác thì đơn_giản
+Score: 0.80
+---
+Predicting...
+Done 6.974936 (ms)
+Done!
+Before: cho rang do pchi la
+Predict: ['cho rằng đó chỉ là', 'cho rằng đó chị là', 'chở rằng đó chỉ là', 'chờ rằng đó chỉ là', 'chợ rằng đó chỉ là', 'chỗ rằng đó chỉ là']
+Reality: cho rằng đó chỉ là
+Score: 1.00
+---
+Predicting...
+Done 8.749247 (ms)
+Done!
+Before: ben trong mot cai phao hoac
+Predict: ['bên trong một cái phao hoắc', 'bên trong một cải pháo hoặc', 'bên trong một cai pháo hoặc', 'bén trong một cái phao hoắc', 'bến trong một cái phao hoắc']
+Reality: bên trong một cái phao hoặc
+Score: 0.83
+---
+Predicting...
+Done 8.482933 (ms)
+Done!
+Before: mot phan cua giad khoan dau.
+Predict: ['một phần của gian khoản đầu', 'một phần của gián khoản đầu', 'một phần của giận khoản đầu', 'môt phần của gian khoản đầu', 'mốt phần của gian khoản đầu']
+Reality: một phần của giàn khoan dầu .
+Score: 0.43
+---
+Predicting...
+Done 5.001783 (ms)
+Done!
+Before: gia tbhuyet duoc nhijeu nguoi
+Predict: ['giả_thuyết được nhiều người', 'gia thuyết được nhiều người', 'giá thuyết được nhiều người', 'già thuyết được nhiều người', 'giã thuyết được nhiều người']
+Reality: giả_thuyết được nhiều người
+Score: 1.00
+---
+Predicting...
+Done 2.332211 (ms)
+Done!
+Before: ztin nhht la l giac
+Predict: ['tín nhẹt là l_giắc', 'tin nhẹt là l_giắc', 'tin nhẹt là l_giác', 'tín nhét là l_giắc', 'tín nhét là l_giặc']
+Reality: tin nhất là lý_giải
+Score: 0.50
+---
+Predicting...
+Done 7.851362 (ms)
+Done!
+Before: tu eot cu dan mang co
+Predict: ['từ bột cư_dân mạng có', 'tử bột cư_dân mạng có', 'tự bớt cư_dân mạng có', 'tử bọt cư_dân mạng có', 'tự bột cư_dân mạng có']
+Reality: từ một cư_dân mạng có
+Score: 0.80
+---
+Predicting...
+Done 4.483461 (ms)
+Done!
+Before: ten jim elrod. nguhi nay
+Predict: ['tên jim elrod người này', 'ten jim elrod người này', 'tên jim elrod người nấy', 'tên jim elrod người nảy', 'tên jim elrod người nay']
+Reality: tên jim elrod . người này
+Score: 0.83
+---
+Predicting...
+Done 2.976656 (ms)
+Done!
+Before: ch rang vat the nnay
+Predict: ['ch ràng vặt thế này', 'ch rạng vặt thế này', 'ch rằng vặt thế này', 'ch răng vặt thế này', 'ch rang vặt thế này']
+Reality: cho rằng vật_thể này
+Score: 0.40
+---
+Predicting...
+Done 5.132914 (ms)
+Done!
+Before: thxuoc sz huu cua nasa vla
+Predict: ['thước_sỹ_hữu của nasa và', 'thuộc sỹ_hữu của nasa và', 'thuốc_sỹ_hữu của nasa và', 'thuốc sỹ_hưu của nasa và', 'thuộc sỹ_hưu của nasa và']
+Reality: thuộc sở_hữu của nasa , là
+Score: 0.50
+---
+Predicting...
+Done 5.371332 (ms)
+Done!
+Before: pan b phan ong phun ten
+Predict: ['pan b phan_ong phun ten']
+Reality: phần bộ_phận ống phun tên
+Score: 0.20
+---
+Predicting...
+Done 5.115271 (ms)
+Done!
+Before: lua trong con tau con
+Predict: ['lửa trong con tàu con', 'lửa trong con tàu còn', 'lửa trong con tàu côn', 'lúa trong con tàu con', 'lứa trong con tàu con']
+Reality: lửa trong con tàu con
+Score: 1.00
+---
+Predicting...
+Done 2.951145 (ms)
+Done!
+Before: thoi chahllenger phat nno 0
+Predict: ['thời challenger_phát nào 0', 'thời challenger phát nao 0', 'thời challenger phạt nào 0', 'thối challenger_phát nào 0', 'thối challenger phát nao 0']
+Reality: thoi_challenger phát_nổ 30
+Score: 0.00
+---
+Predicting...
+Done 4.083872 (ms)
+Done!
+Before: nam truoc. hwi thang 6, bao
+Predict: ['năm trước hụi thắng 69 báo', 'năm trước húi thang 69 báo', 'năm trước_hủi thắng 69 bạo', 'năm trước hủi tháng 69 bão', 'năm trước_hủi thắng 69 báo']
+Reality: năm trước . hồi tháng 6 , báo
+Score: 0.38
+---
+Predicting...
+Done 4.574299 (ms)
+Done!
+Before: charlotte observer cung duia tin vse
+Predict: ['charlotte observer cũng đưa tin tse', 'charlotte observer cùng đưa tin tse', 'charlotte observer cứng đưa tin tse', 'charlotte observer cung đưa tin tse', 'charlotte observer cúng đưa tin tse']
+Reality: charlotte observer cũng đưa tin về
+Score: 0.83
+---
+Predicting...
+Done 9.437561 (ms)
+Done!
+Before: mot vat tahe la tung
+Predict: ['một vật_thể là từng', 'một vật_thể là tung', 'mốt vật_thể là từng', 'mọt vật_thể là từng', 'mốt vật_thể là tung']
+Reality: một vật_thể lạ_tương
+Score: 0.50
+---
+Predicting...
+Done 3.073454 (ms)
+Done!
+Before: tu - lam tu xkim
+Predict: ['tư p làm từ kim', 'tù p làm từ kim', 'tự p làm từ kim', 'tử p làm từ kim', 'từ p làm từ kim']
+Reality: tự - làm từ kim
+Score: 0.80
+---
+Predicting...
+Done 4.019737 (ms)
+Done!
+Before: loai d troi dat vao bo
+Predict: ['loại đ trời_đất vào bờ', 'loài d trời_đất vào bờ', 'loài đ trời_đất vào bờ', 'loại d trời_đất vào bờ', 'loại đ trói đặt vào bờ']
+Reality: loại - trôi_dạt vào bờ
+Score: 0.60
+---
+Predicting...
+Done 3.288746 (ms)
+Done!
+Before: bien corola. tpy nhien, mmc dich
+Predict: ['biển corona tuy_nhiên mm đich', 'biển corona tuy_nhiên mm dich', 'biển corona tuy_nhiên mm đích', 'biển corona tuy_nhiên mm địch', 'biển corona tuy_nhiên mm dịch']
+Reality: biển corolla . tuy_nhiên , mục_đích
+Score: 0.33
+---
+Predicting...
+Done 8.072853 (ms)
+Done!
+Before: su dung va nguon gc
+Predict: ['sử_dụng và nguồn đc', 'sử_dụng và nguồn dc', 'sử dựng và nguồn dc', 'sử dựng và nguồn đc', 'sứ dựng và nguồn dc']
+Reality: sử_dụng và nguồn_gốc
+Score: 0.50
+---
+Predicting...
+Done 5.062103 (ms)
+Done!
+Before: cua vat th la do
+Predict: ['của vật th là do', 'cưa vất th là do', 'cứa vặt th là do', 'của vất th là do', 'cửa vặt th là do']
+Reality: của vật_thể lạ đó
+Score: 0.20
+---
+Predicting...
+Done 5.322933 (ms)
+Done!
+Before: chua bao gio duoc ccng
+Predict: ['chưa bao_giờ được công', 'chưa bao_giờ được cộng', 'chứa bao_giờ được công', 'chúa bao_giờ được công', 'chữa bao_giờ được công', 'chùa bao_giờ được công']
+Reality: chưa bao_giờ được công
+Score: 1.00
+---
+Predicting...
+Done 0.586748 (ms)
+Done!
+Before: o.
+Predict: ['oi', 'ỏi', 'ội', 'ói', 'ỗi', 'ồi', 'ới', 'ổi', 'ọi', 'ơi', 'ối', 'ôi']
+Reality: bố .
+Score: 0.00
+---
+Score: 23.97/43 (55.76%)
